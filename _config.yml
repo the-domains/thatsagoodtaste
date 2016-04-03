@@ -1,7 +1,7 @@
 name: Thatsagoodtaste
 favicon: null
-layout_spectrum: 0.11898409319110215
-typography_spectrum: 0.3341519543901086
+layout_spectrum: 0.74316
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5221836699638516
+  brandStrength: 0.5
   lightness: 0.8354287897236645
-  saturation: 0.7428285947535187
+  saturation: 0.5
   rhythmicContrast: 0.4253385616466403
 purpose: []
