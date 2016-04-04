@@ -1,19 +1,4 @@
-name: Thatsagoodtaste
-favicon: null
-layout_spectrum: 0.7496
-typography_spectrum: 0.49678
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#FF6700'
@@ -21,8 +6,13 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5
-  lightness: 0.8354287897236645
+  brandStrength: 0.320101
+  lightness: 0.494932
+  rhythmicContrast: 0.425338
   saturation: 0.5
-  rhythmicContrast: 0.4253385616466403
+cta: {}
+layout_spectrum: 0.784628
+name: Thatsagoodtaste
+opengraph: {}
 purpose: []
+typography_spectrum: 0.49678
