@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Thatsagoodtaste]]></title>
         <description><![CDATA[Thatsagoodtaste]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thatsagoodtaste/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 00:29:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 21:24:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thatsagoodtaste/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cooking]]></title>
-            <description><![CDATA[<article><h1>Cooking</h1><p>Uni Day</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c048522b-f480-42e8-82c7-a057fe566a06.jpg"></article>]]></description>
-            <link>undefinedcooking/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c048522b-f480-42e8-82c7-a057fe566a06.jpg">]]></description>
+            <link>https://thegrid.ai/thatsagoodtaste/cooking/index.html</link>
             <guid isPermaLink="false">ae48164a-aa89-4d0c-a29b-58b033f75bdb</guid>
             <pubDate>Mon, 04 Apr 2016 00:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>east</p>]]></description>
+            <link>https://thegrid.ai/thatsagoodtaste/east/index.html</link>
+            <guid isPermaLink="false">d0902302-0220-4834-ade8-22586917c508</guid>
+            <pubDate>Mon, 18 Apr 2016 21:23:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
